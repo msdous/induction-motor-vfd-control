@@ -6,7 +6,7 @@
 **Master's Thesis — Electrical Control**
 Department of Electrical Engineering, University Mustapha Ben Boulaid — Batna 2, Algeria
 
-**Messaoudi Abderrahmane** & **Benabdesselam Yacine**
+**Messaoudi Abderrahmane**
 Supervised by **Dr. Khamari Dalila** · Academic Year 2025/2026
 
 ---
