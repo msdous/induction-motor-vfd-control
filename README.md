@@ -44,11 +44,11 @@ To keep every result fully traceable, the complete system — the nonlinear moto
 ## Key Results
 
 <p align="center">
-  <img src="figures/speed-tracking-comparison.png" alt="Speed tracking performance comparison across V/f, IFOC, and FLC" width="720">
+  <img src="speed comparison.png" alt="Speed tracking performance comparison across V/f, IFOC, and FLC" width="720">
 </p>
 
 <p align="center">
-  <img src="figures/torque-dynamics-comparison.png" alt="Electromagnetic torque dynamics comparison across V/f, IFOC, and FLC" width="720">
+  <img src="torque comparison.png" alt="Electromagnetic torque dynamics comparison across V/f, IFOC, and FLC" width="720">
 </p>
 
 | Metric | V/f | IFOC | FLC |
